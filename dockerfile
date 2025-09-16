@@ -1,4 +1,4 @@
-FROM ceifa/gmod-server:latest
+FROM ceifa/garrysmod:latest
 
 ADD https://github.com/Blockmaster2706/ttt2_server_config_files.git /home/gmod/server/garrysmod/
 
